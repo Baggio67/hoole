@@ -28,5 +28,9 @@ Voir [`docs/ROADMAP_4_SEMAINES.md`](docs/ROADMAP_4_SEMAINES.md).
 4. Ajouter notifications (WorkManager + Alarm exact si besoin).
 5. Mettre en place CI GitHub (lint + tests unitaires + instrumentation).
 
+
+## Tests PowerShell (Windows)
+Voir [`docs/TEST_POWERSHELL.md`](docs/TEST_POWERSHELL.md) et le script [`scripts/test.ps1`](scripts/test.ps1).
+
 ## Collaboration
 On peut coder **module par module** jusqu'à la livraison Play Store.
